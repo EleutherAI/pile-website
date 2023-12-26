@@ -155,6 +155,10 @@ h2.text-title {
   text-decoration: underline;
 }
 
+#unavailable-notice {
+  color: red;
+}
+
 .text-content.centralize-text {
   text-align: center;
 }
